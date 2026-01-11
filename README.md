@@ -39,7 +39,7 @@ status_reg.bits.high_brightness = 0;
 Take a look at bitPacking.c, compile it with the following command and play around with it. It works awesome and is a better methond then old school Bit Masking. 
 
 ```bash
-gcc bitPacking.c -o rumMe
+gcc bitPacking.c -o runMe
 ./runMe
 ```
 
