@@ -1,0 +1,13 @@
+# Build artifacts
+build/
+
+# Debug symbols (macOS)
+*.dSYM/
+
+# IDE files
+.vscode/
+
+# Compiled binaries
+*.o
+*.out
+*.exe
